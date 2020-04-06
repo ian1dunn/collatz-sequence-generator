@@ -1,0 +1,40 @@
+.sequence {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 2px;
+  font-size: 18px;
+}
+
+textarea {
+  text-align: center;
+  background-color: #2b2f3b;
+  border: none;
+  border-radius: 10px;
+  min-width: 20em;
+  min-height: 21.5em;
+  resize: none;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.68em;
+}
+
+button {
+  background-color: inherit;
+  color: #5091e7;
+  border: 2px solid #5091e7;
+  border-radius: 3px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+button {
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #5091e7;
+  color: white;
+}
