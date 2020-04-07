@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/collatz-sequence-generator/static/css/main.1fbd2892.chunk.css",
+    "main.css": "/collatz-sequence-generator/static/css/main.2de3356f.chunk.css",
     "main.js": "/collatz-sequence-generator/static/js/main.197cb84c.chunk.js",
     "main.js.map": "/collatz-sequence-generator/static/js/main.197cb84c.chunk.js.map",
     "runtime-main.js": "/collatz-sequence-generator/static/js/runtime-main.77c9b27e.js",
@@ -8,15 +8,15 @@
     "static/js/2.d72848d4.chunk.js": "/collatz-sequence-generator/static/js/2.d72848d4.chunk.js",
     "static/js/2.d72848d4.chunk.js.map": "/collatz-sequence-generator/static/js/2.d72848d4.chunk.js.map",
     "index.html": "/collatz-sequence-generator/index.html",
-    "precache-manifest.3cff65e2c9772d3055954301fcc1fd68.js": "/collatz-sequence-generator/precache-manifest.3cff65e2c9772d3055954301fcc1fd68.js",
+    "precache-manifest.89bc6b31e029413df8ddc5ab8398d021.js": "/collatz-sequence-generator/precache-manifest.89bc6b31e029413df8ddc5ab8398d021.js",
     "service-worker.js": "/collatz-sequence-generator/service-worker.js",
-    "static/css/main.1fbd2892.chunk.css.map": "/collatz-sequence-generator/static/css/main.1fbd2892.chunk.css.map",
+    "static/css/main.2de3356f.chunk.css.map": "/collatz-sequence-generator/static/css/main.2de3356f.chunk.css.map",
     "static/js/2.d72848d4.chunk.js.LICENSE.txt": "/collatz-sequence-generator/static/js/2.d72848d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77c9b27e.js",
     "static/js/2.d72848d4.chunk.js",
-    "static/css/main.1fbd2892.chunk.css",
+    "static/css/main.2de3356f.chunk.css",
     "static/js/main.197cb84c.chunk.js"
   ]
 }

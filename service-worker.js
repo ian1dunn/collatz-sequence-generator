@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/collatz-sequence-generator/precache-manifest.3cff65e2c9772d3055954301fcc1fd68.js"
+  "/collatz-sequence-generator/precache-manifest.89bc6b31e029413df8ddc5ab8398d021.js"
 );
 
 self.addEventListener('message', (event) => {

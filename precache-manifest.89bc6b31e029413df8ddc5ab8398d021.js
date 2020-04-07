@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f365ae57295edd9de8b3516544014dce",
+    "revision": "c5d10c5f8e9c1ad423a5b0dfb0246bdd",
     "url": "/collatz-sequence-generator/index.html"
   },
   {
-    "revision": "e656a7594d6e9e907b21",
-    "url": "/collatz-sequence-generator/static/css/main.1fbd2892.chunk.css"
+    "revision": "0329667f59b9c556d54c",
+    "url": "/collatz-sequence-generator/static/css/main.2de3356f.chunk.css"
   },
   {
     "revision": "7eb131c1257b3fd0d330",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collatz-sequence-generator/static/js/2.d72848d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e656a7594d6e9e907b21",
+    "revision": "0329667f59b9c556d54c",
     "url": "/collatz-sequence-generator/static/js/main.197cb84c.chunk.js"
   },
   {
